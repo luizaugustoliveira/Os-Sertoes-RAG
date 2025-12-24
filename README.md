@@ -195,4 +195,4 @@ pip install ipykernel
 ```
 
 ## License
-This project is licensed under the terms specified in the LICENSE file.
+This project is licensed under the terms specified in the LICENSE file
